@@ -18,6 +18,12 @@ The research follows a multi-fidelity engineering workflow, progressing from con
 
 ---
 
+## Prototype
+
+A full-scale lifting-wing hybrid VTOL UAV prototype was developed based on the conceptual design and aerodynamic analysis.
+
+![Hybrid VTOL UAV Prototype](images/craft%20prototype%20%281%29.jpg)
+
 ## Research Objectives
 
 The primary objectives of the thesis are:
